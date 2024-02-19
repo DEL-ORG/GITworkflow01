@@ -1,0 +1,2 @@
+# GITworkflow01
+WORKINGFROMterminal2pushintogithub
