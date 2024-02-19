@@ -1,3 +1,3 @@
 # GITworkflow01
-WORKINGFROMterminal2pushintogithub
-Laura personal practice.
+WORKING from my terminal2pushintogithub
+
